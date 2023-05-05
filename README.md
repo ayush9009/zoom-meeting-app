@@ -13,7 +13,7 @@ you to stay on top of your schedule.
 
 With a clean and modern UI, the Zoom Clone is an easy-to-use platform that enables you to stay connected with anyone, anywhere, and at any time.
 Whether you're looking to host a business meeting or catch up with friends and family, the Zoom Clone has everything you need to make video
-meetings easy, convenient, and accessible.
+meetings easy, convenient, and accessible.This application also provides you light and dark mode.
 
 ![Screenshot (213)](https://user-images.githubusercontent.com/97290036/236371512-377643f9-5c7e-4faa-ab82-f62b049e51b8.png)
 
