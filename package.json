@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@elastic/eui": "^77.2.0"
+  }
+}
