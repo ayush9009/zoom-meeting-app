@@ -6,7 +6,7 @@ With this application, you can easily stay connected with friends, colleagues, o
 
 The Zoom Clone also features a built-in chat functionality, which lets you stay in touch with your friends and colleagues during meetings. 
 Additionally, there is a list that displays all the past meetings that you have attended, along with their date and time. You can also use the 
-edit button to cancel any upcoming meetings that you can't attend.
+edit button to cancel any upcoming meetings that you can't attend
 
 This application also provides a unique functionality to track whether you have attended a particular meeting or missed it, making it easy for 
 you to stay on top of your schedule.
